@@ -1,0 +1,7 @@
+require('plugins.lazy')
+require('plugins.telescope')
+require('plugins.sonokai-theme')
+require('plugins.options')
+require('plugins.neotree')
+require('plugins.keymaps')
+require('plugins.lspkind')
